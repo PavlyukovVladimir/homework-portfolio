@@ -1,13 +1,13 @@
- - ФИО:
-```
-Павлюков Владимир Владимирович
-```
- - Возраст (полных лет):
-```
-43
-```
- - Фотография:
+![](img/time_machine.jpg) ФИО:
 
-    ![](img/foto.png)
+>Павлюков Владимир Владимирович
 
- - [Github link](https://github.com/PavlyukovVladimir)
+![](img/time_machine.jpg) Возраст (полных лет):
+
+>43
+
+![](img/time_machine.jpg) Фотография:
+  
+![](img/foto.png)
+
+![](img/time_machine.jpg) [Github link](https://github.com/PavlyukovVladimir)
